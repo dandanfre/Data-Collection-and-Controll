@@ -1,1 +1,1 @@
-"# Data-Collection-and-Controll" 
+In this repository I work with data acquisition and control in PC-based systems and embedded systems, for use in instrumentation and control. Some technologoies used: inertial sensors, acquisition of data from these sensors, processing of sensor data, and sensor application in systems with feedback, Arduino and LabeView. 
